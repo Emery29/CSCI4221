@@ -5,7 +5,7 @@
 
     This is the second *paragraph
 # Group Project
-My group consists of CJ, Laderia, Brianna, and myself
+My group consists of CJ, Laderia, Brittney, and myself
 We are going to create an app/website to allow students in college to better coordinate off campus housing with other students
 We have delegated tasks to be: 
 Me: Lead Backend Development
